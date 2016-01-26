@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'avantgarde_md_btmedium';
+    src: url('889-webfont.eot');
+    src: url('889-webfont.eot?#iefix') format('embedded-opentype'),
+         url('889-webfont.woff') format('woff'),
+         url('889-webfont.ttf') format('truetype'),
+         url('889-webfont.svg#avantgarde_md_btmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
